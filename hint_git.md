@@ -73,3 +73,9 @@ ggggggggggggggggg
 
 
 fffffffffffffffff
+
+Дополним инструкцию по Git c помощью материалов с последнего занятия 
+
+1. Чтобы отправить в репозиторий на GitHub вторую ветку недостаточно прописать push, а нужно **git push --set-upstream origin new_branch**
+
+
